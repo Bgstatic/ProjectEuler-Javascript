@@ -5,4 +5,3 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below the provided parameter value <code>number</code>.
 
-1^2
