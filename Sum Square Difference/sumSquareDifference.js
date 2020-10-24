@@ -11,7 +11,7 @@ function sumSquareDifference(number) {
 
   var result = sumOfSquare - squaredSum;
 
-  return result;
+  return result
 }
 
 console.log(sumSquareDifference(10));
