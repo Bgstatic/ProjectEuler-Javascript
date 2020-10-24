@@ -4,7 +4,7 @@
 
 The sum of the squares of the first ten natural numbers is,
 
-              1<sup2</sup> + $2^2$ + ... + $10^2$ = 385
+              1<sup>2</sup>
 
 The square of the sum of the first ten natural numbers is,
 
