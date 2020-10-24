@@ -8,4 +8,4 @@ function multiplesOf3and5(number) {
   return sum;
 }
 
-console.log(multiplesOf3and5(10));
+multiplesOf3and5(10)
