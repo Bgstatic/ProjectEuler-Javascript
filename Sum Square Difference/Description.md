@@ -4,7 +4,9 @@
 
 The sum of the squares of the first ten natural numbers is,
 
-<center><img src="https://latex.codecogs.com/svg.latex?1^2%20+%202^2%20+%20...%20+10^2%20=%20385"  alt="Equation1"/></center>
+<p align="center">
+<img src="https://latex.codecogs.com/svg.latex?1^2%20+%202^2%20+%20...%20+10^2%20=%20385"  alt="Equation1"/>
+</p>
 
 The square of the sum of the first ten natural numbers is,
 
