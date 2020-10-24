@@ -14,4 +14,4 @@ function largestPrimeFactor(number) {
   return result;
 }
 
-console.log(largestPrimeFactor(13195));
+largestPrimeFactor(13195)
