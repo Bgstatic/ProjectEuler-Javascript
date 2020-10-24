@@ -16,4 +16,4 @@ function fibonacci(num) {
   console.log("Sum:", sum);
 }
 
-fibonacci(10);
+fibonacci(10)
