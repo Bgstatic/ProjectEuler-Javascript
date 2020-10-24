@@ -17,4 +17,4 @@ function smallestMult(number) {
   }
 }
 
-console.log(smallestMult(10));
+smallestMult(10)
