@@ -4,7 +4,7 @@
 
 The sum of the squares of the first ten natural numbers is,
 
-\gamma
+![Equation1](https://latex.codecogs.com/svg.latex?1^2%20+%202^2%20+%20...%20+10^2%20=%20385)
 
 The square of the sum of the first ten natural numbers is,
 
