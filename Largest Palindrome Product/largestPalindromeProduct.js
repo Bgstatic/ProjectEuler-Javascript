@@ -27,4 +27,4 @@ function largestPalindromeProduct(n) {
   return Math.max(...palindrome);
 }
 
-console.log(largestPalindromeProduct(2));
+largestPalindromeProduct(2);
