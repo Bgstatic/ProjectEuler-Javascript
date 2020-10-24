@@ -4,7 +4,7 @@
 
 The sum of the squares of the first ten natural numbers is,
 
-              $1^{2}$
+$1^{2}$
 
 The square of the sum of the first ten natural numbers is,
 
