@@ -12,4 +12,4 @@ function isPrime(num) {
   return num > 1;
 }
 
-console.log(nthPrime(10001));
+console.log(nthPrime(10001)):
